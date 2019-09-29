@@ -5,11 +5,11 @@ Build a French-Vietnamese Low Resource Machine Translation
 French-Vietnamese Bilingual corpora (on request) <br />
 
 ### Tools to use
-* Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html 
+* Moses (Koehn, 2009) : http://www.statmt.org/moses_steps.html <br />
 * nmt-keras (Peris, 2017) to train a neural network transliteration machine, https://github.com/lvapeab/nmt-keras/ <br />
 
 ## Benchmark 
-* IWSLT English-Vietnamese : <br />
+* <b>IWSLT English-Vietnamese</b> : 
 https://github.com/tensorflow/nmt#iwslt-english-vietnamese <br />
 Data: https://nlp.stanford.edu/projects/nmt/data <br />
 Train: 133K examples, vocab=vocab.(vi|en), train=train.(vi|en) dev=tst2012.(vi|en), test=tst2013.(vi|en), download script.
